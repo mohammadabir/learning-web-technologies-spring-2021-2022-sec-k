@@ -1,0 +1,28 @@
+<admissions>
+	<admission sl_No ="23">
+		<name> John Carter </name>
+		<Admission_Date>
+			<date>25</date>
+			<month>12</month>
+			<year>2015</year>
+		</Admission_Date>
+	</admission>
+
+	<admission sl_No ="29">
+		<name> Bob Marshal </name>
+		<Admission_Date>
+			<date>13</date>
+			<month>01</month>
+			<year>1999</year>
+		</Admission_Date>
+	</admission>
+
+	<admission sl_No ="35">
+		<name> Clark Kent </name>
+		<Admission_Date>
+			<date>17</date>
+			<month>06</month>
+			<year>2005</year>
+		</Admission_Date>
+	</admission>
+</admissions>
