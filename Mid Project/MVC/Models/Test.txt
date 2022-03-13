@@ -1,0 +1,4 @@
+Web Technology|http://localhost/Web%20Technology/MVC/Views/Managetest.php
+Compiler Design|http://localhost/Web%20Technology/MVC/Views/Managetest.php
+Bangla|xyz.com/......
+Bangla|http://localhost/Web%20Technology/MVC/Views/Managetest.php
